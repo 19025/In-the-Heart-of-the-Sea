@@ -1,0 +1,16 @@
+ body {
+  background-color: #1E1C31;
+	color: #CBE3E7;
+	margin-top: 10px;
+  margin-bottom: 100px;
+  margin-right: 10%;
+  margin-left: 10%;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: justify;
+}
