@@ -23,6 +23,13 @@
   --embark-dark-cyan: #63f2f1;
 }
 
+div.content
+{
+  margin-left: 10%;
+  margin-right: 10%;
+  color: var(--embark-space2);
+}
+
 style
 {
   text-align: left;
@@ -61,8 +68,8 @@ header {
 body {
     min-height: 100%;
     margin: 0;
-    margin-left: 10%;
-    margin-right: 10%;
+    /* margin-left: 10%; */
+    /* margin-right: 10%; */
     padding: 0;
     background-color: var(--embark-space1);
     color: var(--embark-astral1);
@@ -327,4 +334,3 @@ code {
 .no-gap {
   margin: 0 !important;
 }
-
