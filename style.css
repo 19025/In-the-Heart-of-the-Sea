@@ -23,11 +23,10 @@
   --embark-dark-cyan: #63f2f1;
 }
 
-div.content
+.content
 {
-  margin-left: 10%;
-  margin-right: 10%;
-  color: var(--embark-space2);
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 style
