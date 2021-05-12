@@ -1,0 +1,7 @@
+main:
+  - name: About
+    url: '#about'
+    weight: 1
+  - name: Chapters
+    url: /chapters/
+    weight: 2
